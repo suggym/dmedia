@@ -6,10 +6,12 @@ snippet: This is an excerpt of my first blog post.
 
 Hello, world!
 
-# This is h1
+# First Blog Woohoo
 
-## This is h2
+## scavenger hunt
 
 _underline_
 
 **bold**
+
+![wide machine](SCAVDMS1.png)
