@@ -1,6 +1,6 @@
 ---
-title: This is my first blog post!
-published_at: 2022-11-04T15:00:00.000Z
+title: first bp :O
+published_at: 2024-03-05T
 snippet: This is an excerpt of my first blog post.
 ---
 
@@ -10,8 +10,12 @@ Hello, world!
 
 ## scavenger hunt
 
-_underline_
+_cool_
 
-**bold**
+**nice**
 
 ![wide machine](SCAVDMS1.png)
+![book](SCAVDMS2.png)
+![box](SCAVDMS3.png)
+![paper net](SCAVDMS5.png)
+![sith](SCAVDMS6.png)
