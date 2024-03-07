@@ -13,9 +13,3 @@ Hello, world!!
 _cool_
 
 **nice**
-
-![wide machine](SCAVDMS1.png)
-![book](SCAVDMS2.png)
-![box](SCAVDMS3.png)
-![paper net](SCAVDMS5.png)
-![sith](SCAVDMS6.png)
