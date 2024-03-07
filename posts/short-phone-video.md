@@ -9,3 +9,5 @@ hey guys!
 # SHORT VIDEO HW
 
 ## w01s2
+
+https://youtu.be/2txfs7KAGUU
