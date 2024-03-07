@@ -15,7 +15,15 @@ _cool_
 **nice**
 
 ![1](/w01s1/SCAVDMS1.png)
+
+
 ![2](/w01s1/SCAVDMS2.png)
+
+
 ![3](/w01s1/SCAVDMS3.png)
+
+
 ![4](/w01s1/SCAVDMS5.png)
+
+
 ![5](/w01s1/SCAVDMS6.png)
