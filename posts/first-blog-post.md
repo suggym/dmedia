@@ -1,6 +1,6 @@
 ---
 title: first bp :O
-published_at: 2024-03-05T
+published_at: 2024-03-05
 snippet: This is an excerpt of my first blog post.
 ---
 

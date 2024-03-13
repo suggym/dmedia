@@ -1,6 +1,6 @@
 ---
 title: HW Week 1
-published_at: 2024-03-07T
+published_at: 2024-03-07
 snippet: Short Phone Video
 ---
 
