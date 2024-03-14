@@ -23,12 +23,12 @@ export default function BlogIndexPage(props: PageProps<Post[]>) {
 function PostCard(props: { post: Post }) {
   const { post } = props;
   return (
-    <div class="py-8 border(t pink-200)">
+    <div class="py-10 border(t black-200)">
       <a class="sm:col-span-2" href={`/${post.slug}`}>
-        <h3 class="text(3xl purple-900) font-bold">
+        <h3 class="text(3xl blue-900) font-bold">
           {post.title}
         </h3>
-        <time class="text-gray-500">
+        <time class="text-blue-500">
           {new Date(post.publishedAt).toLocaleDateString("en-us", {
             year: "numeric",
             month: "long",
