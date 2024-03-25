@@ -13,7 +13,7 @@ The climax or main tension point of my video is the chaos of the room coming to 
  
  ##Finished Storyboard
  ![1](/w3/IMG_1057.jpeg)
- ![1](/w3/IMG_1058.jpeg)
-![1](/w3/IMG_1059.jpeg)
-![1](/w3/IMG_1060.jpeg)
-![1](/w3/IMG_1061.jpeg)
+ ![2](/w3/IMG_1058.jpeg)
+![3](/w3/IMG_1059.jpeg)
+![4](/w3/IMG_1060.jpeg)
+![5](/w3/IMG_1061.jpeg)
