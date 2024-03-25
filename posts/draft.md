@@ -1,6 +1,6 @@
 ---
 title: HW Week 3
-published_at: 2024-03-13
+published_at: 2024-03-25
 snippet: Stage 5, Moving Out.
 ---
 
