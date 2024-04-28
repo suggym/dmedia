@@ -21,7 +21,7 @@ Levine's exhibition features handcrafted ceramics of objects that police mistook
 
 ![by Cara Levine](/w6/cara.png)
 
-Other articles that have inspired me and driven this project are lister below.
+Other articles that have inspired me and driven this project are listed below.
 **Harper's Magazine: "Trigger Warning" Dec 2016** (The main inspiration of Cara Levine's Work)
 https://harpers.org/archive/2016/12/trigger-warning/
 
