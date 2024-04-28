@@ -4,14 +4,22 @@ published_at: 2024-04-19
 snippet: research compilation
 ---
 All (known) names of those that were killed.
+
 Khiel Coppin
+
 Vonderrit Myers, Jr.
+
 Christopher Roupe
+
 Amadou Diallo
+
 Roy Middleton
+
 Mark Venuti
 
+
 May they rest in peace.
+
 # 'THIS IS NOT A GUN' Cara Levine
 
 The main artwork that has inspired my icons is titled "This is Not a Gun", a ceramic work by artist Cara Levine.
@@ -21,20 +29,32 @@ Levine's exhibition features handcrafted ceramics of objects that police mistook
 
 ![by Cara Levine](/w6/cara.png)
 
-Other articles that have inspired me and driven this project are listed below.
+## Other articles that have inspired me and driven this project are listed below.
+
 **Harper's Magazine: "Trigger Warning" Dec 2016** (The main inspiration of Cara Levine's Work)
+
 https://harpers.org/archive/2016/12/trigger-warning/
 
+
+
 **The Atlantic: "The Culture of Policing Is Broken" June 2020**
+
 https://www.theatlantic.com/ideas/archive/2020/06/how-police-brutality-gets-made/613030/
+
 *"Police brutality reflects the legacy of racial lynchings, and some of the habits of mind that are still embedded in American society."*
 
+
+
 **NAACP: "The Origins of Modern Day Policing" Undated**
+
 https://naacp.org/find-resources/history-explained/origins-modern-day-policing
 
 *"The legacy and effects of biased policing are far reaching. The U.S. is home to the world's largest prison population and the highest per-capita incarceration rate. As of May 2020, there were 655 people incarcerated per 100,000. Prison, parole, and probation operations cost U.S. taxpayers $81 billion a year."*
 
+
+
 **The Grio: "8 harmless objects that the police have mistaken for guns" Oct 2014**
+
 https://thegrio.com/2014/10/10/8-harmless-objects-mistaken-for-gun/
 
 
