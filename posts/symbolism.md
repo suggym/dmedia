@@ -19,7 +19,7 @@ The red light in the cabin represents the heightened anxiety and alertness we ex
 
 **The Virus**
 
-A representation of the virus is included to make the invisible threat tangible. It serves as a reminder of the constant danger lurking outside, reinforcing the feelings of fear and uncertainty that permeated our daily existence. See more in last blog post.
+A representation of the virus is included to make the invisible threat tangible. It is a reminder of the constant danger lurking outside, reinforcing the feelings of fear and uncertainty that permeated our daily existence. See more in last blog post.
 
 **The Floating Trees**
 
@@ -43,11 +43,14 @@ In contrast to the floating trees, the normal trees symbolize the aspects of lif
 
 **Indoor Music**
 
-The indoor music is carefully chosen to evoke a sense of melancholy and introspection. It is slow and somber, mirroring the internal reflection and the range of emotions we experienced while being confined indoors.
+The indoor music's orchestral and accelrating melody is used to create anxiety and fear inside the cabin, creating a dichotomy of peace vs chaos. The melody starts softly but intensifies, mirroring the escalating tension of the pandemic. The bass drums mimic a quickening human heartbeat, symbolizing relentless stress and the emotional toll of isolation. This combination highlights the psychological strain and the constant state of alertness experienced during COVID.
 
 **Outdoor Music**
 
-The outdoor music contrasts with the indoor music, featuring sounds of nature and a more uplifting melody. It signifies freedom and the longing for the outside world, providing a stark contrast to the isolation inside the cabin. This duality highlights the dichotomy between the confined indoor space and the liberating outdoors.
+The outdoor music contrasts with the indoor music, featuring sounds of nature and a more uplifting melody. The light guitar melody is meant to be a bittersweet farwell, as I had actually originally made the song for the end credits of a film I was making. The song feels to me like the end, which is ultimately what te environment is, a goodbye to the outside world. Moreover, it signifies fleeting freedom and the longing for the outside world, providing a stark contrast to the isolation inside the cabin. This duality highlights the dichotomy between the confined indoor space and the liberating outdoors. 
+
+**Fade to Black**
+This is a common connotation for "the end" in most movies and games and in my specific environment it is symbolic of how isolation truly did feel like 'the end' of the world, of life and of society. Through the fade to black I can emphasise the difference between endless landscape and 'the end' and the feeling of entrapment that I felt during lockdown. It further symbolises the start of the sleep cycle I ran into during COVID, where if everything was too much, much like the audiovisual assault in the cabin, I would sleep to 'get rid of it'.
 
 I have put a lot of thought into the intention behind each element of this Unity project. I wanted this digital environment to be more than just a visual representation, a emotional and psychological exploration of what isolation during COVID-19 felt like and the transformation between what we considered normal, to our new reality.
 
